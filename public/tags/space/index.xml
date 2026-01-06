@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Space on deadfast</title>
-    <link>http://localhost:41199/deadfast/tags/space/</link>
+    <link>http://localhost:1313/deadfast/tags/space/</link>
     <description>Recent content in Space on deadfast</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>deadfast@proton.io (deadfast)</managingEditor>
     <webMaster>deadfast@proton.io (deadfast)</webMaster>
     <lastBuildDate>Thu, 28 Nov 2024 14:20:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:41199/deadfast/tags/space/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/deadfast/tags/space/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dune: Overhyped or Underappreciated?</title>
-      <link>http://localhost:41199/deadfast/posts/dune-thoughts/</link>
+      <link>http://localhost:1313/deadfast/posts/dune-thoughts/</link>
       <pubDate>Thu, 28 Nov 2024 14:20:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:41199/deadfast/posts/dune-thoughts/</guid>
+      <guid>http://localhost:1313/deadfast/posts/dune-thoughts/</guid>
       <description>&lt;p&gt;Finally got around to reading &lt;strong&gt;Dune&lt;/strong&gt; by Frank Herbert after Harrison kept recommending it. My honest take? It&amp;rsquo;s&amp;hellip; complicated.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-good&#34;&gt;The Good&lt;/h2&gt;&#xA;&lt;p&gt;The first book is genuinely good. Herbert created this incredibly detailed universe with complex politics, ecology, and mysticism all woven together. The world-building is impressive, and you can see why it&amp;rsquo;s considered a sci-fi classic.&lt;/p&gt;&#xA;&lt;p&gt;The movie (at least the first one) was visually stunning and did justice to the source material. Denis Villeneuve really understood the assignment.&lt;/p&gt;</description>
     </item>
   </channel>

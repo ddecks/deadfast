@@ -67,3 +67,6 @@ name = "email"
 url = "mailto:email@example.com"
 aria = "My e-Mail Address"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Business on deadfast</title>
-    <link>http://localhost:41199/deadfast/tags/business/</link>
+    <link>http://localhost:1313/deadfast/tags/business/</link>
     <description>Recent content in Business on deadfast</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>deadfast@proton.io (deadfast)</managingEditor>
     <webMaster>deadfast@proton.io (deadfast)</webMaster>
     <lastBuildDate>Mon, 30 Sep 2024 09:15:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:41199/deadfast/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/deadfast/tags/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Sovereign Individual: Prescient or Pretentious?</title>
-      <link>http://localhost:41199/deadfast/posts/sovereign-individual-thoughts/</link>
+      <link>http://localhost:1313/deadfast/posts/sovereign-individual-thoughts/</link>
       <pubDate>Mon, 30 Sep 2024 09:15:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:41199/deadfast/posts/sovereign-individual-thoughts/</guid>
+      <guid>http://localhost:1313/deadfast/posts/sovereign-individual-thoughts/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The Sovereign Individual&lt;/strong&gt; by James Dale Davidson and Lord William Rees-Mogg is one of those books that either feels like prophecy or pretentious rambling, depending on when you read it. Rating: 7.8/10.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-central-thesis&#34;&gt;The Central Thesis&lt;/h2&gt;&#xA;&lt;p&gt;Written in 1997, the book predicts the rise of digital currencies, remote work, and the decline of nation-states. The authors argue that technology will eventually allow individuals to become &amp;ldquo;sovereign&amp;rdquo; - free from traditional government control and taxation.&lt;/p&gt;</description>
     </item>
   </channel>

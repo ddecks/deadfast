@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing on deadfast</title>
-    <link>http://localhost:41199/deadfast/tags/writing/</link>
+    <link>http://localhost:1313/deadfast/tags/writing/</link>
     <description>Recent content in Writing on deadfast</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>deadfast@proton.io (deadfast)</managingEditor>
     <webMaster>deadfast@proton.io (deadfast)</webMaster>
     <lastBuildDate>Mon, 05 Jan 2026 17:01:29 +0000</lastBuildDate>
-    <atom:link href="http://localhost:41199/deadfast/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/deadfast/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>markdown</title>
-      <link>http://localhost:41199/deadfast/posts/obsidian_markdown_quicks/</link>
+      <link>http://localhost:1313/deadfast/posts/obsidian_markdown_quicks/</link>
       <pubDate>Mon, 05 Jan 2026 17:01:29 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:41199/deadfast/posts/obsidian_markdown_quicks/</guid>
+      <guid>http://localhost:1313/deadfast/posts/obsidian_markdown_quicks/</guid>
       <description>&lt;p&gt;Naming standards should be pretty important, file names may potentially be relevant but taking time to create good naming will be very useful as your obsidian notes continue expanding. This is also true when it comes to creating heading and code blocks to reference, it&amp;rsquo;ll be important to continue mastering markdown as a typing &amp;ldquo;language&amp;rdquo;&#xA;Note most of this stuff is stolen from my obsidian note so mileage will very.&lt;/p&gt;</description>
     </item>
   </channel>
