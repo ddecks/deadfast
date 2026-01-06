@@ -2,173 +2,173 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on deadfast</title>
-    <link>http://localhost:1313/deadfast/tags/</link>
+    <link>https://ddecks.github.io/deadfast/tags/</link>
     <description>Recent content in Tags on deadfast</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>deadfast@proton.io (deadfast)</managingEditor>
     <webMaster>deadfast@proton.io (deadfast)</webMaster>
     <lastBuildDate>Mon, 05 Jan 2026 17:01:29 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/deadfast/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ddecks.github.io/deadfast/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentation</title>
-      <link>http://localhost:1313/deadfast/tags/documentation/</link>
+      <link>https://ddecks.github.io/deadfast/tags/documentation/</link>
       <pubDate>Mon, 05 Jan 2026 17:01:29 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/documentation/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/documentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/deadfast/tags/hugo/</link>
+      <link>https://ddecks.github.io/deadfast/tags/hugo/</link>
       <pubDate>Mon, 05 Jan 2026 17:01:29 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/hugo/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/deadfast/tags/markdown/</link>
+      <link>https://ddecks.github.io/deadfast/tags/markdown/</link>
       <pubDate>Mon, 05 Jan 2026 17:01:29 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/markdown/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Obsidian</title>
-      <link>http://localhost:1313/deadfast/tags/obsidian/</link>
+      <link>https://ddecks.github.io/deadfast/tags/obsidian/</link>
       <pubDate>Mon, 05 Jan 2026 17:01:29 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/obsidian/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/obsidian/</guid>
       <description></description>
     </item>
     <item>
       <title>Writing</title>
-      <link>http://localhost:1313/deadfast/tags/writing/</link>
+      <link>https://ddecks.github.io/deadfast/tags/writing/</link>
       <pubDate>Mon, 05 Jan 2026 17:01:29 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/writing/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/writing/</guid>
       <description></description>
     </item>
     <item>
       <title>Books</title>
-      <link>http://localhost:1313/deadfast/tags/books/</link>
+      <link>https://ddecks.github.io/deadfast/tags/books/</link>
       <pubDate>Sun, 15 Dec 2024 10:30:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/books/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/books/</guid>
       <description></description>
     </item>
     <item>
       <title>Habits</title>
-      <link>http://localhost:1313/deadfast/tags/habits/</link>
+      <link>https://ddecks.github.io/deadfast/tags/habits/</link>
       <pubDate>Sun, 15 Dec 2024 10:30:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/habits/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/habits/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal-Development</title>
-      <link>http://localhost:1313/deadfast/tags/personal-development/</link>
+      <link>https://ddecks.github.io/deadfast/tags/personal-development/</link>
       <pubDate>Sun, 15 Dec 2024 10:30:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/personal-development/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/personal-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>http://localhost:1313/deadfast/tags/productivity/</link>
+      <link>https://ddecks.github.io/deadfast/tags/productivity/</link>
       <pubDate>Sun, 15 Dec 2024 10:30:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/productivity/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Self-Help</title>
-      <link>http://localhost:1313/deadfast/tags/self-help/</link>
+      <link>https://ddecks.github.io/deadfast/tags/self-help/</link>
       <pubDate>Sun, 15 Dec 2024 10:30:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/self-help/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/self-help/</guid>
       <description></description>
     </item>
     <item>
       <title>Frank-Herbert</title>
-      <link>http://localhost:1313/deadfast/tags/frank-herbert/</link>
+      <link>https://ddecks.github.io/deadfast/tags/frank-herbert/</link>
       <pubDate>Thu, 28 Nov 2024 14:20:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/frank-herbert/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/frank-herbert/</guid>
       <description></description>
     </item>
     <item>
       <title>Review</title>
-      <link>http://localhost:1313/deadfast/tags/review/</link>
+      <link>https://ddecks.github.io/deadfast/tags/review/</link>
       <pubDate>Thu, 28 Nov 2024 14:20:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/review/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/review/</guid>
       <description></description>
     </item>
     <item>
       <title>Scifi</title>
-      <link>http://localhost:1313/deadfast/tags/scifi/</link>
+      <link>https://ddecks.github.io/deadfast/tags/scifi/</link>
       <pubDate>Thu, 28 Nov 2024 14:20:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/scifi/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/scifi/</guid>
       <description></description>
     </item>
     <item>
       <title>Space</title>
-      <link>http://localhost:1313/deadfast/tags/space/</link>
+      <link>https://ddecks.github.io/deadfast/tags/space/</link>
       <pubDate>Thu, 28 Nov 2024 14:20:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/space/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/space/</guid>
       <description></description>
     </item>
     <item>
       <title>Aliens</title>
-      <link>http://localhost:1313/deadfast/tags/aliens/</link>
+      <link>https://ddecks.github.io/deadfast/tags/aliens/</link>
       <pubDate>Sat, 12 Oct 2024 16:45:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/aliens/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/aliens/</guid>
       <description></description>
     </item>
     <item>
       <title>Cixin-Liu</title>
-      <link>http://localhost:1313/deadfast/tags/cixin-liu/</link>
+      <link>https://ddecks.github.io/deadfast/tags/cixin-liu/</link>
       <pubDate>Sat, 12 Oct 2024 16:45:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/cixin-liu/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/cixin-liu/</guid>
       <description></description>
     </item>
     <item>
       <title>Hard-Scifi</title>
-      <link>http://localhost:1313/deadfast/tags/hard-scifi/</link>
+      <link>https://ddecks.github.io/deadfast/tags/hard-scifi/</link>
       <pubDate>Sat, 12 Oct 2024 16:45:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/hard-scifi/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/hard-scifi/</guid>
       <description></description>
     </item>
     <item>
       <title>Physics</title>
-      <link>http://localhost:1313/deadfast/tags/physics/</link>
+      <link>https://ddecks.github.io/deadfast/tags/physics/</link>
       <pubDate>Sat, 12 Oct 2024 16:45:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/physics/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/physics/</guid>
       <description></description>
     </item>
     <item>
       <title>Business</title>
-      <link>http://localhost:1313/deadfast/tags/business/</link>
+      <link>https://ddecks.github.io/deadfast/tags/business/</link>
       <pubDate>Mon, 30 Sep 2024 09:15:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/business/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/business/</guid>
       <description></description>
     </item>
     <item>
       <title>Cryptocurrency</title>
-      <link>http://localhost:1313/deadfast/tags/cryptocurrency/</link>
+      <link>https://ddecks.github.io/deadfast/tags/cryptocurrency/</link>
       <pubDate>Mon, 30 Sep 2024 09:15:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/cryptocurrency/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/cryptocurrency/</guid>
       <description></description>
     </item>
     <item>
       <title>Economics</title>
-      <link>http://localhost:1313/deadfast/tags/economics/</link>
+      <link>https://ddecks.github.io/deadfast/tags/economics/</link>
       <pubDate>Mon, 30 Sep 2024 09:15:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/economics/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/economics/</guid>
       <description></description>
     </item>
     <item>
       <title>Finance</title>
-      <link>http://localhost:1313/deadfast/tags/finance/</link>
+      <link>https://ddecks.github.io/deadfast/tags/finance/</link>
       <pubDate>Mon, 30 Sep 2024 09:15:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/finance/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/finance/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>http://localhost:1313/deadfast/tags/philosophy/</link>
+      <link>https://ddecks.github.io/deadfast/tags/philosophy/</link>
       <pubDate>Mon, 30 Sep 2024 09:15:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/tags/philosophy/</guid>
+      <guid>https://ddecks.github.io/deadfast/tags/philosophy/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Productivity on deadfast</title>
-    <link>http://localhost:1313/deadfast/tags/productivity/</link>
+    <link>https://ddecks.github.io/deadfast/tags/productivity/</link>
     <description>Recent content in Productivity on deadfast</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>deadfast@proton.io (deadfast)</managingEditor>
     <webMaster>deadfast@proton.io (deadfast)</webMaster>
     <lastBuildDate>Sun, 15 Dec 2024 10:30:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/deadfast/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ddecks.github.io/deadfast/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Better Habits: My Take on Atomic Habits</title>
-      <link>http://localhost:1313/deadfast/posts/atomic-habits-review/</link>
+      <link>https://ddecks.github.io/deadfast/posts/atomic-habits-review/</link>
       <pubDate>Sun, 15 Dec 2024 10:30:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
-      <guid>http://localhost:1313/deadfast/posts/atomic-habits-review/</guid>
+      <guid>https://ddecks.github.io/deadfast/posts/atomic-habits-review/</guid>
       <description>&lt;p&gt;Just finished reading &lt;strong&gt;Atomic Habits&lt;/strong&gt; by James Clear, and honestly, it&amp;rsquo;s one of those books that makes you want to immediately reorganize your entire life. Rating it a solid 9/10.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-core-concept&#34;&gt;The Core Concept&lt;/h2&gt;&#xA;&lt;p&gt;The book revolves around the &lt;strong&gt;compounding effect&lt;/strong&gt; - small changes that seem insignificant at first but compound into remarkable results over time. Clear argues that you don&amp;rsquo;t need massive changes; you need consistent, tiny improvements.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways-that-hit-different&#34;&gt;Key Takeaways That Hit Different&lt;/h2&gt;&#xA;&lt;h3 id=&#34;environment-is-everything&#34;&gt;Environment is Everything&lt;/h3&gt;&#xA;&lt;p&gt;Your environment plays a critical role in defining habit behaviors. The most significant contributor? Your visual environment. Want to break a bad habit? Break your exposure to the cue that triggers it in the first place.&lt;/p&gt;</description>
     </item>
   </channel>
