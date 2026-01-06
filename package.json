@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "hugo && pagefind --site public"
+  },
+  "devDependencies": {
+    "pagefind": "^1.4.0"
+  }
+}

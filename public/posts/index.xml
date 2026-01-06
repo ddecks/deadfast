@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on deadfast</title>
+    <link>http://localhost:41199/deadfast/posts/</link>
+    <description>Recent content in Posts on deadfast</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>deadfast@proton.io (deadfast)</managingEditor>
+    <webMaster>deadfast@proton.io (deadfast)</webMaster>
+    <lastBuildDate>Mon, 05 Jan 2026 17:01:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:41199/deadfast/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>markdown</title>
+      <link>http://localhost:41199/deadfast/posts/obsidian_markdown_quicks/</link>
+      <pubDate>Mon, 05 Jan 2026 17:01:29 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
+      <guid>http://localhost:41199/deadfast/posts/obsidian_markdown_quicks/</guid>
+      <description>&lt;p&gt;Naming standards should be pretty important, file names may potentially be relevant but taking time to create good naming will be very useful as your obsidian notes continue expanding. This is also true when it comes to creating heading and code blocks to reference, it&amp;rsquo;ll be important to continue mastering markdown as a typing &amp;ldquo;language&amp;rdquo;&#xA;Note most of this stuff is stolen from my obsidian note so mileage will very.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building Better Habits: My Take on Atomic Habits</title>
+      <link>http://localhost:41199/deadfast/posts/atomic-habits-review/</link>
+      <pubDate>Sun, 15 Dec 2024 10:30:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
+      <guid>http://localhost:41199/deadfast/posts/atomic-habits-review/</guid>
+      <description>&lt;p&gt;Just finished reading &lt;strong&gt;Atomic Habits&lt;/strong&gt; by James Clear, and honestly, it&amp;rsquo;s one of those books that makes you want to immediately reorganize your entire life. Rating it a solid 9/10.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-core-concept&#34;&gt;The Core Concept&lt;/h2&gt;&#xA;&lt;p&gt;The book revolves around the &lt;strong&gt;compounding effect&lt;/strong&gt; - small changes that seem insignificant at first but compound into remarkable results over time. Clear argues that you don&amp;rsquo;t need massive changes; you need consistent, tiny improvements.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways-that-hit-different&#34;&gt;Key Takeaways That Hit Different&lt;/h2&gt;&#xA;&lt;h3 id=&#34;environment-is-everything&#34;&gt;Environment is Everything&lt;/h3&gt;&#xA;&lt;p&gt;Your environment plays a critical role in defining habit behaviors. The most significant contributor? Your visual environment. Want to break a bad habit? Break your exposure to the cue that triggers it in the first place.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dune: Overhyped or Underappreciated?</title>
+      <link>http://localhost:41199/deadfast/posts/dune-thoughts/</link>
+      <pubDate>Thu, 28 Nov 2024 14:20:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
+      <guid>http://localhost:41199/deadfast/posts/dune-thoughts/</guid>
+      <description>&lt;p&gt;Finally got around to reading &lt;strong&gt;Dune&lt;/strong&gt; by Frank Herbert after Harrison kept recommending it. My honest take? It&amp;rsquo;s&amp;hellip; complicated.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-good&#34;&gt;The Good&lt;/h2&gt;&#xA;&lt;p&gt;The first book is genuinely good. Herbert created this incredibly detailed universe with complex politics, ecology, and mysticism all woven together. The world-building is impressive, and you can see why it&amp;rsquo;s considered a sci-fi classic.&lt;/p&gt;&#xA;&lt;p&gt;The movie (at least the first one) was visually stunning and did justice to the source material. Denis Villeneuve really understood the assignment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Three-Body Problem: Hard Sci-Fi That Hits Different</title>
+      <link>http://localhost:41199/deadfast/posts/three-body-problem-review/</link>
+      <pubDate>Sat, 12 Oct 2024 16:45:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
+      <guid>http://localhost:41199/deadfast/posts/three-body-problem-review/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The Three-Body Problem&lt;/strong&gt; by Cixin Liu is the kind of sci-fi that makes you question everything about humanity&amp;rsquo;s place in the universe. Rating: 8.1/10 (yeah, a lot of my sci-fi reads end up around there).&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-makes-it-special&#34;&gt;What Makes It Special&lt;/h2&gt;&#xA;&lt;p&gt;This isn&amp;rsquo;t your typical Western sci-fi. Liu brings a distinctly Chinese perspective to concepts like fate vs. free will, and it&amp;rsquo;s refreshing. The book feels less about individual heroism and more about humanity as a whole facing an existential threat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Sovereign Individual: Prescient or Pretentious?</title>
+      <link>http://localhost:41199/deadfast/posts/sovereign-individual-thoughts/</link>
+      <pubDate>Mon, 30 Sep 2024 09:15:00 +0000</pubDate><author>deadfast@proton.io (deadfast)</author>
+      <guid>http://localhost:41199/deadfast/posts/sovereign-individual-thoughts/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The Sovereign Individual&lt;/strong&gt; by James Dale Davidson and Lord William Rees-Mogg is one of those books that either feels like prophecy or pretentious rambling, depending on when you read it. Rating: 7.8/10.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-central-thesis&#34;&gt;The Central Thesis&lt;/h2&gt;&#xA;&lt;p&gt;Written in 1997, the book predicts the rise of digital currencies, remote work, and the decline of nation-states. The authors argue that technology will eventually allow individuals to become &amp;ldquo;sovereign&amp;rdquo; - free from traditional government control and taxation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
